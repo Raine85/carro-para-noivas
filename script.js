@@ -1,7 +1,7 @@
 document.getElementById('form-noiva').addEventListener('submit', function(event) {
     event.preventDefault(); // Impede a página de recarregar
 
-    // Seu número configurado com o código do Brasil (55) e o DDD (62)
+    // Seu número atualizado com o código do Brasil (55), DDD (62) e o 9 extra correto
     const seuNumeroWhatsapp = "5562994483889"; 
 
     // Captura os valores que a noiva preencheu no formulário
