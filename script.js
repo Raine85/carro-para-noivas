@@ -2,7 +2,7 @@ document.getElementById('form-noiva').addEventListener('submit', function(event)
     event.preventDefault(); // Impede a página de recarregar
 
     // Seu número configurado com o código do Brasil (55) e o DDD (62)
-    const seuNumeroWhatsapp = "5562995284302"; 
+    const seuNumeroWhatsapp = "5562994483889"; 
 
     // Captura os valores que a noiva preencheu no formulário
     const nome = document.getElementById('nome').value;
